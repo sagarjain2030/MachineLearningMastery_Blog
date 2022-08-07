@@ -3,4 +3,6 @@ This repository includes my study, notes and codes for blog of [machine learning
 
 ### Index:
 
-[What is machine learning](Notes/WhatIsMachineLearning.md) :  [Details](https://machinelearningmastery.com/what-is-machine-learning/)
+| File Name | Post Names | 
+| :-------------:| :-------------: |
+| [Notes 001](Notes/Notes_001.md)| [what is machine learning](https://machinelearningmastery.com/what-is-machine-learning/)    [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)    |
